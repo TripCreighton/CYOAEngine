@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(51,30): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(133,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(143,41): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(218,28): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(234,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(243,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(257,21): warning C4018:  '>=': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(261,29): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(272,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\creig\source\repos\Project3\Project3\Game.cpp(273,21): warning C4018:  '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\creig\source\repos\Project3\Debug\Project3.exe
